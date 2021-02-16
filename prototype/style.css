@@ -1,0 +1,13 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    background-image: url(img/rampage.gif);
+}
+
+nav{
+    font-weight: bolder;
+}
+
+.footer-img{
+    height: 5%;
+}
